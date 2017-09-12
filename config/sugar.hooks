@@ -1,0 +1,6 @@
+login.textfield.username=NAME:username
+login.textfield.password=NAME:password
+login.button.login=NAME:login_button
+main.menu.user=ID:userTab
+main.link.logout=XPATH://*[@id="fullmenu"]/li[4]/a
+welcome.button=XPATH://div[@id='tutorial-controls']/div/a[2]
